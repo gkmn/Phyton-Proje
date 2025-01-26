@@ -1,1 +1,1 @@
-# Phyton-Proje
+Python Temel Patikası proje çözümleri
